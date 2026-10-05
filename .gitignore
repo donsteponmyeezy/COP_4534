@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Build output
+*.o
+*.out
+*.dSYM/
+build/
+bin_packer
+hughesc
+tsp_solver
